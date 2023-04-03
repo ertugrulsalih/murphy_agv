@@ -1,11 +1,6 @@
 controller_manager:
   ros__parameters:
     update_rate: 30
-<<<<<<< HEAD
-    use_sim_time: true
-=======
-    # use_sim_time: true
->>>>>>> Get real robot working
 
     diff_cont:
       type: diff_drive_controller/DiffDriveController
